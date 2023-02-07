@@ -29,8 +29,8 @@
 ##
  <div align="center">
  <h3> Essas são minhas estatísticas no GitHub: 📈 </h3>
- <img  src = "https://github-readme-stats.vercel.app/api?username=paulomodestoo&show_icons=true&theme=dark&card_width=400">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=paulomodestoo&layout=compact&theme=dark&card_width=400">
+ <img  src = "https://github-readme-stats.vercel.app/api?username=paulomodestoo&show_icons=true&theme=dark&card_width=350&bg_color=0d1117">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=paulomodestoo&layout=compact&theme=dark&card_width=350&bg_color=0d1117">
  </div>
 
 <p align = "center">
