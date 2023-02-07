@@ -7,7 +7,7 @@
  
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=aws,postgres,py,r,figma" />
+   <img src="https://skillicons.dev/icons?i=aws,postgres,mongodb,mysql,py,r,figma" />
   </a>
 </p>
 
