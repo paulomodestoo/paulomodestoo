@@ -8,8 +8,9 @@
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=paulomodestoo&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=paulomodestoo&show_icons=true&locale=en&layout=compact&theme=github-dark&border=DADADA&ring=DADADA&fire=79FE96&stroke=DADADA&dates=79FE96&sideNums=DADADA&currStreakNum=DADADA&currStreakLabel=929292&sideLabels=929292)" />
 </p> 
+
 
 <p align="left">
   <a href="https://skillicons.dev">
