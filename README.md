@@ -2,7 +2,7 @@
 <div align="center">
  <h3> Oi, tudo bem? 😁 </h3>
 
-  <p> Me chamo Paulo Modesto, sou um profissional com mais de seis anos de experiência em áreas de negócio. Após esse período conheci a área de BI e Data Science e foi amor a primeira vista. Desde então venho me especializando nessas áreas. Por aqui você vai encontrar o que tenho estudado. </p>
+  <p> Me chamo Paulo Modesto, sou um profissional com mais de seis anos de experiência em áreas de negócio. Após esse período conheci a área de BI e Data Science e foi amor a primeira vista. Desde então venho me especializando nessas áreas.</p>
 </div>
  
 <p align="center">
